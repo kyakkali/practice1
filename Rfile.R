@@ -5,6 +5,8 @@ require(plyr)
 # This program needs to be run from the directory where the source data is extracted
 #
 
+# i am making chnges to the existing 
+
 # Merge train and test data sets to a single TotalSet
 
     # First read the raw data files
